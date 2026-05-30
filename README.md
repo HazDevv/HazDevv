@@ -52,7 +52,7 @@
 
 ## 📊 Profile Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=HazDevv&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=HazDevv&show_icons=true&theme=algolia&cache_seconds=60)
 
 <br>
 ### 🔗 &nbsp;Contact Me
