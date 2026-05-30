@@ -54,7 +54,7 @@
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=HazDevv-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
@@ -70,9 +70,12 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+  <a href="mailto:reynagarciahaziel@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/edgar-haziel-reyna-garc%C3%ADa">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
