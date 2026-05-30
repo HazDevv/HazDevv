@@ -50,16 +50,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Profile Statistics
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=HazDevv&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazDevv&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazDevv&layout=compact&theme=algolia" height="180em"/>
+</p>
 
-<br>
-
-</div>
- 
- ### 💳 Github Profile Summary Card
-![](https://github-readme-stats.vercel.app/api?username=HazDevv&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazDevv&theme=algolia" />
+</p>
  
 ### 🔗 &nbsp;Contact Me
 
